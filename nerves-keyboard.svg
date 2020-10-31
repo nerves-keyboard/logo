@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="352"
+   height="352"
+   viewBox="0 0 93.133336 93.133329"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="nerves-keyboard.svg"
+   inkscape:export-filename="/home/chris/Documents/nerves-keyboard.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="169.79213"
+     inkscape:cy="179.9426"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="3420"
+     inkscape:window-height="1393"
+     inkscape:window-x="10"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-71.974902,-106.82669)">
+    <g
+       id="g1198"
+       transform="translate(0,1.5875)">
+      <path
+         id="path1051"
+         style="fill:#006a96;fill-opacity:1;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 488.42969,404.44727 -54.01758,39.68359 20.93359,26.17578 25.3125,-19.03906 57.65821,72.74023 -203.85743,-0.0703 -61.71875,45.96094 136.1836,174.2539 51.27539,-38.61523 -20.13086,-27.49219 -25.71484,18.8418 -53.79297,-70.67188 196.72265,0.90039 65.85157,-47.14257 z m 62.63867,124.52148 -0.48438,92.30078 -210.97851,-0.45312 -0.0859,-89.90625 z m 6.11914,17.92383 18.45312,25.8457 -19.1875,19.98633 z m -222.22656,13.71094 -0.14649,41.03389 -20.80664,-24.99288 z"
+         transform="scale(0.26458333)"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccc"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.473402,142.40311 -0.06703,3.3951 3.214015,-0.0408 0.0097,-3.49516 z"
+         id="path1062"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 96.284364,142.33527 0.09372,3.26756 3.146415,0.14681 0.175678,-3.26967 z"
+         id="path1064"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 101.2123,142.33317 0.0808,3.29478 3.29545,-0.035 -0.17634,-3.33605 z"
+         id="path1066"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 106.27784,142.47678 0.0893,3.16914 3.23323,0.0706 -0.17017,-3.24499 z"
+         id="path1068"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 111.13575,142.39371 0.0726,3.35711 3.08291,-0.0963 0.25184,-3.09289 z"
+         id="path1070"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 116.22192,142.57086 -0.0374,3.12047 h 3.37875 l -0.13417,-3.41186 z"
+         id="path1072"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 121.09351,142.38281 -0.11788,3.51057 3.27691,-0.24632 0.14728,-3.10308 z"
+         id="path1074"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 126.09495,142.57614 0.10898,3.32533 3.26161,-0.1925 -0.0516,-3.18436 z"
+         id="path1076"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 131.1939,142.34961 0.0947,3.38702 3.19686,-0.0397 -0.035,-3.42995 z"
+         id="path1078"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 136.07856,142.56228 -0.0569,3.36517 3.24535,-0.21378 -0.006,-3.29408 z"
+         id="path1080"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.92087,142.52143 -0.0404,2.962 3.39562,-7.9e-4 -0.0132,-3.04862 z"
+         id="path1082"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.513781,148.04622 -0.09714,3.14218 h 3.21436 l 0.06132,-3.289 z"
+         id="path1084"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 96.291936,148.12204 -0.03703,3.24222 3.348252,-0.14089 5.29e-4,-3.15746 z"
+         id="path1086"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 101.28516,148.10164 -0.0381,3.25209 3.2063,0.0765 0.0515,-3.32241 z"
+         id="path1088"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 106.23327,148.09973 0.13427,3.13848 3.17722,0.0417 -0.12428,-3.15516 z"
+         id="path1090"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 111.198,148.12095 0.12086,3.24904 3.13566,-0.11024 -0.20569,-3.09581 z"
+         id="path1092"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 116.38472,148.16267 -0.0526,3.04557 3.1227,0.0946 -0.09,-3.22891 z"
+         id="path1094"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 121.14544,148.1013 0.0623,3.14609 3.16082,-0.0361 -0.062,-3.1526 z"
+         id="path1096"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 126.30676,148.07657 0.011,3.11766 3.04951,0.0225 -0.0945,-3.23341 z"
+         id="path1098"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 131.21271,148.20468 -0.0834,3.03069 3.23962,-0.005 -0.14347,-3.09198 z"
+         id="path1100"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 136.16159,148.21713 -0.0726,3.08905 3.29285,-0.21884 -0.022,-3.03274 z"
+         id="path1102"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 141.18173,147.98806 -10e-4,3.32915 3.17325,-0.063 0.0481,-3.10083 z"
+         id="path1104"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.381163,153.68409 0.0932,3.37867 6.535661,-0.15851 -0.193993,-3.21709 z"
+         id="path1106"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 99.051527,153.79564 0.04725,3.06779 3.113793,-0.008 -0.0579,-3.12806 z"
+         id="path1108"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 104.15009,153.87328 -0.14437,3.1628 3.17199,-0.0295 -0.0589,-3.21797 z"
+         id="path1110"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 108.84085,153.66157 0.0667,3.33515 3.20457,0.0437 -0.0234,-3.30551 z"
+         id="path1112"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 113.85274,153.83662 0.009,3.20088 3.15965,-0.0448 -0.0347,-3.15542 z"
+         id="path1114"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 118.65451,153.82215 0.0477,3.13193 3.18743,0.14192 0.0212,-3.42497 z"
+         id="path1116"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 123.75017,153.77011 -0.0212,3.04539 2.81501,0.15232 -0.0375,-3.25977 z"
+         id="path1118"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 128.39936,153.90677 0.0738,3.11425 3.10596,-0.0472 0.0748,-3.12503 z"
+         id="path1120"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 133.19998,153.84026 0.18159,3.15131 3.13281,-0.0481 -7.9e-4,-3.18816 z"
+         id="path1122"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 137.80779,153.90062 0.0716,3.22797 6.29422,-0.0877 0.0836,-3.35869 z"
+         id="path1124"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.500181,159.41274 0.06398,3.29352 2.99375,-0.0675 0.05401,-3.14342 z"
+         id="path1126"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 96.336127,159.52871 -0.05216,3.11819 3.0691,-0.092 0.09636,-3.16232 z"
+         id="path1128"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 101.35379,159.48763 -0.0663,3.2816 3.21328,-0.21516 0.0524,-3.26859 z"
+         id="path1130"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 106.03599,159.47336 0.005,3.17542 23.21634,-0.0814 0.0866,-3.09579 z"
+         id="path1132"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 131.02924,159.5066 0.2386,3.09562 3.16456,0.191 -0.0555,-3.31916 z"
+         id="path1134"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 136.07493,159.5596 -0.008,3.20716 3.04718,-0.0145 0.10506,-3.20496 z"
+         id="path1136"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ff6a96;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.9931,159.50596 0.10599,3.23247 3.02346,-0.094 0.0998,-3.1899 z"
+         id="path1138"
+         inkscape:export-filename="/home/chris/path1051.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+  </g>
+</svg>
